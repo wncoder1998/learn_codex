@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Style"
+  short_description: "Keep React components stylistically consistent."
+  default_prompt: "Use $react-style to keep this project's React code consistent."
