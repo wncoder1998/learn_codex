@@ -2,3 +2,5 @@
 .npm-cache
 /dist
 .playwright-cli
+/playwright-report
+/test-results
